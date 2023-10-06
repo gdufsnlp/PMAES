@@ -1,6 +1,11 @@
 # **PMAES-Cross prompt AES**
 
-Code for Paper "PMAES: Prompt-mapping Contrastive Learning for Cross-prompt Automated Essay Scoring", *ACL 2023*
+Code for Paper "PMAES: Prompt-mapping Contrastive Learning for Cross-prompt Automated Essay Scoring"
+
+ACL2023, Pages: 1489–1503
+
+Yuan Chen, Xia Li
+
 
 ## **Model**
 ![](model.png)
